@@ -1,2 +1,2 @@
 # Practice
-This repo contains the important code for this fragment activity
+This repo contains Advanced Android 01.1:Fragments
